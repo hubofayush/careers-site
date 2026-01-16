@@ -18,3 +18,5 @@ export const jobs: Job[] = [
     isActive: true,
   },
 ];
+
+export const BaseUrl = "https://careers-site-indol.vercel.app";
