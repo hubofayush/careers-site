@@ -76,7 +76,7 @@ export async function generateMetadata({ params }: props): Promise<Metadata> {
       type: "website",
       images: [
         {
-          url: "https://careers-site-indol.vercel.app/og/job.png",
+          url: "https://careers-site-indol.vercel.app/og/job.jpg",
           width: 1200,
           height: 630,
         },
